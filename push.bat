@@ -46,7 +46,7 @@ if %ERRORLEVEL% neq 0 (
 )
 
 echo ÕıÔÚÖ´ĞĞ git push...
-git push origin main
+git push ori main
 if %ERRORLEVEL% neq 0 (
     echo ´íÎó£ºgit push Ê§°Ü£¡
     pause
